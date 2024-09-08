@@ -1,7 +1,5 @@
 # Demo Projects Overview
 
-本 GitHub 庫包含多個關於機器學習和人工智能的展示項目，展示了不同技術在不同領域中的應用。
-
 ## 專案目錄
 
 ### 1. AIOps Demo (Python)
